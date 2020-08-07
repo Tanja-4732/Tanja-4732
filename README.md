@@ -1,4 +1,4 @@
-# G r e e t i n g s 👋
+# Greetings 👋
 
 I work on Angular, Node and Rust projects in my free time.
 
