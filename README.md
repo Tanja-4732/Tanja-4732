@@ -4,7 +4,7 @@ I work on Angular, Node and Rust projects in my free time.
 
 Currently, I'm focusing on [DoubleNote](https://github.com/Bernd-L/DoubleNote), my flagship project. It's a note-taking application based on Angular, which aims to provide an offline-first, versioned, collaborative editing experience for its users.
 
-Previously, [ExDateMan](https://github.com/Bernd-L/ExDateMan) (which is short for _Expiration Date Manager_) was my primary fucus. It's a simple application for managing shared food inventories so nothing expires.
+Previously, [ExDateMan](https://github.com/Bernd-L/ExDateMan) (which is short for _Expiration Date Manager_) was my primary focus. It's a simple application for managing shared food inventories so nothing expires.
 
 In the future, I want to look into Rust development, and gain some experience there. So far, I worked on Angular frontend applications, Node.js backend servers and old Java programs.
 
