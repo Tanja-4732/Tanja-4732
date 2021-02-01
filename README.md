@@ -1,12 +1,12 @@
 # Greetings 👋
 
-I work on Angular, Node and Rust projects in my free time.
+I work on Rust, Angular and Node projects in my free time:
 
-Currently, I'm focusing on [DoubleNote](https://github.com/Bernd-L/DoubleNote), my flagship project. It's a note-taking application based on Angular, which aims to provide an offline-first, versioned, collaborative editing experience for its users.
-
-Previously, [ExDateMan](https://github.com/Bernd-L/ExDateMan) (which is short for _Expiration Date Manager_) was my primary fucus. It's a simple application for managing shared food inventories so nothing expires.
-
-In the future, I want to look into Rust development, and gain some experience there. So far, I worked on Angular frontend applications, Node.js backend servers and old Java programs.
+- [DoubleNote](https://github.com/Bernd-L/DoubleNote) is a note-taking application made with Angular, which aims to provide an offline-first, versioned, collaborative editing experience for its users
+- [od-get](https://github.com/Bernd-L/od-get) is a command-line application for crawling and downloading open directories implemented in Rust
+- [cr-tools](https://github.com/Bernd-L/cr-tools) provides its users a very simple way to figure out which cards to request first when playing Clash Royale; implemented in Rust targeting WebAssembly
+- [ExDateMan](https://github.com/Bernd-L/ExDateMan) (which is short for _Expiration Date Manager_) is a simple application for managing shared food inventories to prevent food from expiring
+- [libocc-ts](https://github.com/Bernd-L/libocc-ts) and [libocc-rs](https://github.com/Bernd-L/libocc-rs) are a library for event-sourced data management for occasionally connected computing, written in Rust and TypeScript, respectively
 
 I believe in free, open source software and the benefits this brings with it, which is why most of my projects are licensed under the [AGPL license](https://www.gnu.org/licenses/agpl-3.0.en.html).
 
